@@ -1,2 +1,4 @@
 in bear file
 more contents added in bear file
+[master ce5d8c5] changes made in bear.txt
+ 1 file changed, 1 insertion(+)
